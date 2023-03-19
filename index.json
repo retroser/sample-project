@@ -5,6 +5,11 @@
   "w": 1000,
   "h": 1000,
   "backgroundColor": "gray",
+  "source": {
+    "interval": 1000,
+    "type": "http",
+    "url": "https://fjrocigi25pv27jo5tewwueoyu0hxige.lambda-url.eu-west-1.on.aws/state1"
+  },
   "children": [
     { "type": "Image", "x": 0, "y": 0, "w": 1000, "h": 1000, "src": "https://picsum.photos/1000" },
     { "type": "Rect", "x": 400, "y": 100, "w": 100, "h": 100, "fill": "green" },
