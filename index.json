@@ -50,7 +50,7 @@
       "y": 50,
       "text": {
         "__type__": "Var",
-        "name": "value"
+        "name": "temperature"
       },
       "fontSize": 20,
       "fill": "black"
