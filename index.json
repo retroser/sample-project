@@ -6,7 +6,7 @@
   "h": 1000,
   "backgroundColor": "gray",
   "source": {
-    "interval": 1000,
+    "interval": 3000,
     "type": "http",
     "url": "https://fjrocigi25pv27jo5tewwueoyu0hxige.lambda-url.eu-west-1.on.aws/state1"
   },
