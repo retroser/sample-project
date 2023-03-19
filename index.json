@@ -19,18 +19,6 @@
     { "type": "Rect", "x": 600, "y": 300, "w": 100, "h": 100, "fill": "purple" },
     { "type": "Circle", "x": 600, "y": 300, "r": 10, "fill": "purple" },
     { "type": "Line", "x1": 200, "y1": 500, "x2": 800, "y2": 500, "stroke": "black" },
-    {
-      "type": "Text",
-      "x": {
-        "__type__": "Var",
-        "name": "counter"
-      },
-      "y": {
-        "__type__": "Var",
-        "name": "counter"
-      },
-      "text": "Hello"
-    },
     { "type": "Rect", "x": 200, "y": 100, "w": 100, "h": 100, "fill": "red" },
     { "type": "Rect", "x": 0, "y": 0, "w": 250, "h": 50, "fill": "gray" },
     {
